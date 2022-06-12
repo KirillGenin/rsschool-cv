@@ -1,4 +1,3 @@
-<a href="https://kirillgenin.github.io/rsschool-cv/" style="font-size:24px;">rsschool-cv</a>
 <h1>Kirill Genin</h1>
 
 <section>
@@ -8,6 +7,7 @@
     <li><strong>E-mail:</strong> wwwebfrontend@yandex.ru</li>
     <li><strong>Discord:</strong> Kirill_Genin#6431</li>
     <li><strong>GitHub:</strong> <a href="https://github.com/KirillGenin">KirillGenin</a></li>
+  </ul>
 </section>
 
 <section>
