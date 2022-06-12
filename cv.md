@@ -6,7 +6,7 @@
   <ul>
     <li><strong>Location:</strong> Russia, Moscow</li>
     <li><strong>E-mail:</strong> wwwebfrontend@yandex.ru</li>
-    <li><strong>Discord:</strong> @KirillGenin</li>
+    <li><strong>Discord:</strong> Kirill_Genin#6431</li>
     <li><strong>GitHub:</strong> <a href="https://github.com/KirillGenin">KirillGenin</a></li>
 </section>
 
