@@ -50,9 +50,9 @@ Currently I want to learn how to build websites from scratch using HTML+CSS+Java
     <li>Online courses:
       <ul>
         <li>Stepik - <a href="https://stepik.org/course/38218/promo">Web development for beginners: HTML&CSS</a></li>
-        <li>Modern JavaScript Tutorial - <a href="https://learn.javascript.ru/"> learn.javascript.ru</a></li>
+        <li>Modern JavaScript Tutorial - <a href="https://learn.javascript.ru/">learn.javascript.ru</a></li>
         <li>MDN Web Docs - <a href="https://developer.mozilla.org/en-US/docs/Learn">developer.mozilla.org/en-US/docs/Learn</a></li>
-        <li><a href="https://app.rs.school/">RS School</a> - at the present time</li>
+        <li>RS School - <a href="https://rs.school/js-stage0/">JavaScript/Front-end. Stage 0</a></li>
       </ul>
     </li>
   </ul>
