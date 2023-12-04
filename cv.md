@@ -18,3 +18,14 @@ I have been interested in website development for many years. I have created web
 Currently I want to learn how to build websites from scratch using HTML+CSS+JavaScript+React. My goal is to get a job in a big IT company where I can develop my skills and find many new like-minded people.
 </p>
 </section>
+
+<section>
+<h2>Skills</h2>
+  <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>CMS WordPress</li>
+    <li>JavaScript ES5/ES6 (Basic)</li>
+    <li>Git/GitHub</li>
+  </ul>
+</section>
