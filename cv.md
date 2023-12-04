@@ -38,3 +38,20 @@ Currently I want to learn how to build websites from scratch using HTML+CSS+Java
 </code>
 </pre>
 </section>
+
+<section>
+<h2>Education</h2>
+  <ul>
+    <li>2003-2009. Bauman Moscow State Technical University (BMSTU, Bauman MSTU)</li>
+    <li>Online courses:
+      <ul>
+        <li>Modern JavaScript Tutorial - <a href="https://learn.javascript.ru/"> learn.javascript.ru</a></li>
+        <li>MDN Web Docs - <a href="https://developer.mozilla.org/en-US/docs/Learn">developer.mozilla.org/en-US/docs/Learn</a></li>
+        <li>RS School - <a href="https://rs.school/js-stage0/">JavaScript/Front-end Pre-School</a></li>
+        <li>RS School - <a href="https://rs.school/js/">JavaScript/Front-end</a></li>
+        <li>RS School - <a href="https://rs.school/react/">React</a></li>
+        <li>RS School - <a href="https://rs.school/nodejs/">NodeJS</a></li>
+      </ul>
+    </li>
+  </ul>
+</section>
