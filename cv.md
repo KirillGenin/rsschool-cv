@@ -8,3 +8,13 @@
     <li><strong>GitHub:</strong> <a href="https://github.com/KirillGenin">KirillGenin</a></li>
   </ul>
 </section>
+
+<section>
+<h2>About Me</h2>
+<p>
+I have been interested in website development for many years. I have created websites both for myself and for sale. On personal sites, I placed sponsored links and contextual advertising. I filled sites for sale with unique content. In both cases, I used content management systems - CMS. Although I have basic knowledge of HTML and CSS.
+</p>
+<p>
+Currently I want to learn how to build websites from scratch using HTML+CSS+JavaScript+React. My goal is to get a job in a big IT company where I can develop my skills and find many new like-minded people.
+</p>
+</section>
