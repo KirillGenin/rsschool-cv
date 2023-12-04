@@ -55,3 +55,11 @@ Currently I want to learn how to build websites from scratch using HTML+CSS+Java
     </li>
   </ul>
 </section>
+
+<section>
+<h2>Languages</h2>
+  <ul>
+    <li><strong>Russian</strong> - native</li>
+    <li><strong>English</strong> - A2</li>
+  </ul>
+</section>
