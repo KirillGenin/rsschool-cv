@@ -29,3 +29,12 @@ Currently I want to learn how to build websites from scratch using HTML+CSS+Java
     <li>Git/GitHub</li>
   </ul>
 </section>
+
+<section>
+<h2>Code example</h2>
+<pre>
+<code>
+ const factorial = (n) => n > 1 ? n * factorial(n-1) : 1
+</code>
+</pre>
+</section>
